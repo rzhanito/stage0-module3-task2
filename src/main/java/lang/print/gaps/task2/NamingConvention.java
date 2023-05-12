@@ -3,13 +3,13 @@ package lang.print.gaps.task2;
 public class NamingConvention {
     public static void main(String[] args) {
         int variable = 10;
-        int variable_One = 1;
-        int variable_Two = 2;
-        int variable_Three = 3;
-        final int variable_Four = 4;
-        final int variable_Five = 5;
-        int variable_Six = 6;
-        int variable_Seven = 7;
-        int variable_Eight = 8;
+        int variable_one = 1;
+        int variable_two = 2;
+        int variable_three = 3;
+        final int VARIABLE_FOUR = 4;
+        final int VARIABLE_FIVE = 5;
+        int variable_six = 6;
+        int variable_seven = 7;
+        int variable_eight = 8;
     }
 }
